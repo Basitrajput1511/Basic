@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    font-size: 35px;
+    text-align: center;
+    padding: 40px;
+    background-color:brown;
+    color: brown;
+}
+nav{
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-color: yellow;
+    
+}
+a{
+    color: white;
+}
+.product{
+    text-align: center;
+    padding: 15px;
+    margin: 2pc;
+    font-size: 21px;color: blue;
+
+}
+.heading{
+    text-align: center;
+    font-size:25px ;
+    background-color: aquamarine;
+}
+.Media{
+ padding: 20px;
+}
+.video{
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+    margin: 2pc;
+}
+.pic{
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    margin: 2pc;
+}
+footer{
+    text-align: center;
+    padding: 2pc;
+    background-color: darkslategray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
